@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.223,D:\Work\PikaPika\Unit2.pas=D:\Work\PikaPika\TFruit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,=D:\Work\PikaPika\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Work\PikaPika\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,=C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,=D:\Work\PikaPika\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,D:\Work\PikaPika\TFruit.pas=D:\Work\PikaPika\Fruit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,D:\Work\PikaPika\TFruit.pas=D:\Work\PikaPika\Fruit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,D:\Work\PikaPika\Project1.dproj=D:\Work\PikaPika\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,D:\Work\PikaPika\Unit2.pas=D:\Work\PikaPika\Fruits_Controller.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,=C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,=C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,D:\Work\PikaPika\Fruit.pas=D:\Work\PikaPika\TFruit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Work\PikaPika\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Work\PikaPika\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,=C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,=C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,=C:\Users\RokWe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PRokWeb iOSSimulator="iPhone5" iOSDevice64="_iosdevice_00008030-0011591E02F9802E"/>
+	</ActiveMobileDevice>
+</BorlandProject>
