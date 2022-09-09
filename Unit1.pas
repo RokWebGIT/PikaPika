@@ -37,16 +37,14 @@ begin
   Fruits_Controller := TFruitsController.Create;
 
   {$IFDEF MSWINDOWS}
-  Fruits_Controller.AddFruitsFromFolder('D:\RokWeb\Work\Ôàðìèíã\SortedIcons\Icons\NoRamka\FoodIconPack\T');
+  Fruits_Controller.AddFruitsFromFolder('D:\RokWeb\Work\Ð¤Ð°Ñ€Ð¼Ð¸Ð½Ð³\SortedIcons\Icons\NoRamka\FoodIconPack\T');
   {$ELSE}
   Fruits_Controller.AddFruitsFromFolder(TPath.GetDocumentsPath);
   {$ENDIF}
 
   Fruits_Controller.SetView(Image1);
 
-  Fruits_Controller.SetGrid(GridPanelLayout1, 100, 3);
-
-  //Image1.Bitmap := Fruits_Controller.GetCurrent.Bitmap;
+  Fruits_Controller.SetGrid(GridPanelLayout1, 3);
 end;
 
 end.
