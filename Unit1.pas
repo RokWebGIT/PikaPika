@@ -28,10 +28,6 @@ implementation
 
 {$R *.fmx}
 
-{ TFruit }
-
-
-
 procedure TForm1.FormCreate(Sender: TObject);
 begin
   Fruits_Controller := TFruitsController.Create;
